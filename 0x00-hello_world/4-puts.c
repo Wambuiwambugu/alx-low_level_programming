@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/*main - Entry point
+/*
+ * main - Prints statement 
  *
  * Return 0
  */
