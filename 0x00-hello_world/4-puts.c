@@ -3,7 +3,9 @@
 /**
  * main - Prints "\"Programming is like building a multilingual puzzle"
  *
- * return: function ends. return 0
+ * Description: prints text
+ *
+ * Return: function ends,return (0)
  */
 int main(void)
 {
