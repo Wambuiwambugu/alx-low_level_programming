@@ -1,9 +1,11 @@
 #include <stdio.h>
 
-/*
+/**
  * main - function begins
  *
- * return-end of function
+ * Description: print phrase
+ *
+ * Return: end of function
  */
 int main(void)
 {
