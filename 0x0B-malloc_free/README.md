@@ -1,0 +1,2 @@
+malloc free
+memory aloocation
