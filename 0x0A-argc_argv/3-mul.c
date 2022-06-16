@@ -19,5 +19,10 @@ int main(int argc, char **argv)
 		printf("%s\n", "Error");
 		ex = 1;
 	}
+	else
+	{
+		n = atoi(argv[1]) * atoi(argv[2]);
+		printf("%i\n", n);
+	}
 	return (ex);
 }
