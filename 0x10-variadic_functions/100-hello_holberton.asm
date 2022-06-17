@@ -1,7 +1,7 @@
 ; File: 100-hello_holberton.asm
 ; Author: Ukonu Divine Chisom
 ; Desc: 64-bit assembly program that prints
-;       Hello, Holberton followed by a new line.
+;       Hello, Holberton followed by a new line
 
 section .text
    global main
